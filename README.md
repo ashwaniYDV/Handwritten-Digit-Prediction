@@ -5,4 +5,8 @@ Handwritten Digit Prediction using Convolutional Neural Networks in TensorFlow w
 https://medium.com/coinmonks/handwritten-digit-prediction-using-convolutional-neural-networks-in-tensorflow-with-keras-and-live-5ebddf46dc8
 
 ### Usage
+https://ashwaniydv.github.io/Handwritten-Digit-Prediction/
+
+OR
+
 Just open index.html in browser
